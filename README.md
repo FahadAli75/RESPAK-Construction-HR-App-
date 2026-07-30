@@ -1,32 +1,85 @@
-# RESpak Construction HR App UI/UX Design
+# RESpak Construction HR App — Mobile UI/UX Design
 
 ## Overview
+A mobile HR management UI/UX design for the construction industry, created in collaboration with an HR manager. The app centralizes employee profiles, attendance tracking, and HR-related processes into one intuitive platform, eliminating manual paperwork and administrative inefficiencies.
 
-RESpak is a mobile HR management application UI/UX design created in Figma for the construction industry. The project focuses on providing a simple and intuitive digital experience for managing employees, attendance, and HR-related activities.
+---
 
-## Features
+## The Problem
+HR managers in the construction industry struggled to track worker attendance across multiple job sites. Manual processes led to incomplete records, payroll errors, and wasted administrative time.
 
-- Employee management
-- Employee profiles
-- Attendance tracking
-- HR management interface
-- Clean and intuitive navigation
-- Mobile-friendly UI
-- User-focused design
-- Modern and consistent visual interface
+---
 
-## Design Tool
+## The Solution
+A mobile-first HR management app that allows HR managers to:
+- View and manage employee profiles
+- Track attendance across multiple construction sites
+- Handle HR-related tasks in one centralized platform
 
-- Figma
+---
 
-## UI/UX Design
+## My Design Process
 
-[View Figma Prototype](https://www.figma.com/proto/oPXgBDKUADtRNdnL1CUFA2/RESPAK--Construction-HR-App-?t=vMMNYdwpHDaLqGi8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=2-6&starting-point-node-id=2%3A6&show-proto-sidebar=1)
+### 1. Client Collaboration
+Worked directly with an HR manager to understand their pain points, workflow, and specific requirements for the construction industry.
 
-## Project Goal
+### 2. User Flows
+Mapped out how HR managers would navigate the app, identifying key actions like viewing employee profiles, tracking attendance, and managing HR tasks.
 
-The goal of this project was to design a modern and user-friendly HR management application that simplifies employee management and HR processes for construction companies.
+### 3. Wireframing
+Created low-fidelity wireframes to test the layout and navigation structure before moving to high-fidelity design.
 
-## Project Screenshots
+### 4. High-Fidelity Prototyping
+Developed pixel-perfect prototypes in Figma with a focus on usability, simple navigation, and a consistent mobile experience.
 
-Screenshots of the UI/UX design are included in this repository.
+---
+
+## Key Features
+
+- **Employee Profiles:** Centralized view of employee information and work history
+- **Attendance Tracking:** Monitor attendance across multiple construction sites
+- **HR Management:** Streamline HR-related tasks and processes
+- **Clean Navigation:** Simple, intuitive interface designed for mobile use
+- **Consistent Visual Design:** Modern and professional aesthetic
+
+---
+
+## Tools Used
+
+- **Figma** — UI/UX Design, Wireframing, Prototyping
+- **GitHub** — Version Control and Project Hosting
+
+---
+
+## Live Prototype
+
+🔗 [View Figma Prototype](https://www.figma.com/proto/oPXgBDKUADtRNdnL1CUFA2/RESPAK--Construction-HR-App-?t=vMMNYdwpHDaLqGi8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=2-6&starting-point-node-id=2%3A6&show-proto-sidebar=1)
+
+---
+
+## Screenshots
+
+*(Add screenshots of your Figma designs here. You can upload images to your repository and link them here.)*
+
+---
+
+## Client Feedback
+
+The HR manager provided positive feedback on the clean interface, ease of use, and the app's potential to streamline attendance tracking across multiple construction sites.
+
+---
+
+## What I Learned
+
+This project taught me how to:
+- Collaborate directly with a client to understand real-world requirements
+- Translate business needs into a user-friendly digital solution
+- Design for mobile-first experiences with a focus on usability
+- Iterate based on stakeholder feedback
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/fahad-ali-395a6030a](https://www.linkedin.com/in/fahad-ali-395a6030a)
+- **Portfolio:** *(Add your portfolio link here when ready)*

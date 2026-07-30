@@ -82,4 +82,4 @@ This project taught me how to:
 ## Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/fahad-ali-395a6030a](https://www.linkedin.com/in/fahad-ali-395a6030a)
-- **Portfolio:** *(Add your portfolio link here when ready)*
+- **Portfolio:** ().
